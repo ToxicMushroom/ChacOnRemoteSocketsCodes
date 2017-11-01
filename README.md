@@ -1,7 +1,23 @@
 # ChacOnRemoteSocketsCodes
 Here you can find the chacon remote socket codes and my other chacon projects.
+Need any help (I'm not a pro) contact me on Discord and I'll do my best :).
+https://discord.gg/cCDnvNg
+I am the owner just look for a red name.
 
 /outlets/
+
+I used this but from a local shop:https://www.ebay.com/p/433mhz-RF-Transmitter-and-Receiver-Kit-for-Arduino-arm-mcu-WL/1050411512
+with a raspberry pi.
+
+check out this video:
+	https://www.youtube.com/watch?v=Xe5Bj_N4Crw
+Then i used a web server with php to ssh in my pi and execute the send.py 
+(you need an external lib called ssh2 for your php version) make sure your get the one for your version
+Then i created a login with php and some html buttons that redirect you to a subpage 
+so you can check wich button your pressed with 'GET' and then use the ssh
+
+Then i created a small android app so it was easely accesable with my phone.
+src will be up soon for the app.
 
 #off = on - 1 
 #on = off + 1
