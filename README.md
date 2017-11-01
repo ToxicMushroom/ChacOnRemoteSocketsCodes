@@ -6,7 +6,8 @@ I am the owner just look for a red name.
 
 /outlets/
 
-I used this but from a local shop:https://www.ebay.com/p/433mhz-RF-Transmitter-and-Receiver-Kit-for-Arduino-arm-mcu-WL/1050411512
+I used this but from a local shop:
+https://www.ebay.com/p/433mhz-RF-Transmitter-and-Receiver-Kit-for-Arduino-arm-mcu-WL/1050411512
 with a raspberry pi.
 
 check out this video:
